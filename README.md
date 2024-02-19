@@ -12,10 +12,11 @@ Milestone 2
 
 ## Svolgimento
 
-1. Chiedere all'utente il propio nome tramite un prompt
-2. Chiedere all'utente il propio cognome tramite un prompt
-3. Andare a sommare nome e cognome 
-4. Chiedere all'utente il propio colore preferito tramite un prompt
-5. Andare a generare una password unanendo il nome completo con il colore preferito aggiungendo un numero alla fine
-6. Rendere il tutto visibile su consol tramite log
-7. Rendere il tutto visibile sulla pagina HTML tramite un tag
+1. Chiedere all'utente il propio nome tramite un prompt.
+2. Chiedere all'utente il propio cognome tramite un prompt.
+3. Andare a sommare nome e cognome .
+4. Chiedere all'utente il propio anno di nascita tramite un prompt.
+5. Chiedere all'utente il propio colore preferito tramite un prompt.
+6. Andare a generare una password unanendo il nome completo con il colore preferito e l'anno di nascita.
+7. Rendere il tutto visibile su consol tramite log.
+8. Rendere il tutto visibile sulla pagina HTML tramite un tag.
